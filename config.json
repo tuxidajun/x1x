@@ -1,0 +1,9 @@
+{
+  "delay": 30,
+  "token": "eyJvcGVuSWQiOiJvVGNWNjVmcFJ5SzFaTnp2ZDFGVzhyOXBUUHRFIiwic2NyZXdJZCI6Ind4ZjhlOTg4NmFjOTQ4MGViYSIsInVzZXJJZCI6IjNiMDY5NDllODczNTQyNmI5OWIxZmY0ZTk3NzNhNWNiIn0..f7698087d1b642e9bd36466449757124",
+  "sites": [
+    "https://show.belle.net.cn/shop/getShopContentList?start=0&pageSize=10&shopId=52&listType=1",
+    "https://show.belle.net.cn/shop/getShopContentList?start=0&pageSize=10&shopId=54&listType=1",
+    "https://show.belle.net.cn/shop/getShopContentList?start=0&pageSize=10&shopId=5&listType=1]"
+  ]
+}
